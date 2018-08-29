@@ -1,6 +1,6 @@
 {
   "name": "Lab 0: Expressions",
-  "endpoint": "duke/data8/fa18/lab09",
+  "endpoint": "duke/data8/fa18/lab00",
   "src": [
     "lab00.ipynb"
   ],
