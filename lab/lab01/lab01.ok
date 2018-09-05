@@ -2,7 +2,7 @@
   "name": "Lab 1: Data Types",
   "endpoint": "duke/data8/fa18/lab01",
   "src": [
-    "lab02.ipynb"
+    "lab01.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
