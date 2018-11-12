@@ -1,6 +1,6 @@
 {
   "name": "Project 2: Inference and Capital Punishment",
-  "endpoint": "cal/data8/sp18/project2",
+  "endpoint": "duke/data8/fa18/proj2",
   "src": [
     "project2.ipynb"
   ],
